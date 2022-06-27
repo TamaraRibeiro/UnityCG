@@ -1,8 +1,8 @@
 # TRABALHO FINAL DISCIPLINA COMPUTAÇÃO GRÁFICA 
 ---
-#### ALUNOS | RA
-Andrey Nery Lima Bonat - 2007240
-Tamara Liz Schwab Ribeiro - 1700308
+##### ALUNOS | RA
+- Andrey Nery Lima Bonat - 2007240
+- Tamara Liz Schwab Ribeiro - 1700308
 ---
 ##### OBJETIVO | TEMA 
 O objetivo deste projeto é a implementação de uma aplicação gráfica, utilizando Unity Engine, onde seja possível (1) rotacionar e transladar um objeto (no caso desta aplicação, é um personagem), (2) possuir objetos com transparência, (3) com espelho, (4 e 5) iluminações do tipo point e spot light, e (6) pelo menos um material com mapeamento de texturas normal, height e occlusion map. 
